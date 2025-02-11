@@ -1,14 +1,9 @@
-# Ignore Node Modules
+# Ignore node_modules
 node_modules/
 
 # Ignore Environment Files
 .env
 
 # Ignore Logs
-logs/
 *.log
 npm-debug.log*
-
-# Ignore Build Files (if any)
-dist/
-build/
