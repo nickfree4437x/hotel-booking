@@ -4,11 +4,6 @@ Welcome to **Royal Vista**, a modern **hotel booking system** that allows users 
 
 ---
 
-## 🚀 Live Demo  
-🔗 [Live Website](https://your-live-link.com) *(Update with actual link if deployed)*  
-
----
-
 ## 🛠️ Tech Stack  
 ### **Frontend:**  
 - ⚛️ React.js  
@@ -19,7 +14,6 @@ Welcome to **Royal Vista**, a modern **hotel booking system** that allows users 
 ### **Backend:**  
 - 🚀 Node.js & Express.js  
 - 💾 MongoDB (Database)  
-- 🔑 JWT Authentication  
 - 🛠️ Mongoose ORM  
 
 ### **Deployment:**  
@@ -31,8 +25,7 @@ Welcome to **Royal Vista**, a modern **hotel booking system** that allows users 
 
 ## 📦 Features  
 ✅ **Hotel Room Booking System**  
-✅ **Advanced Filters & Search**  
-✅ **User Authentication (Sign Up, Login, Logout)**  
+✅ **Advanced Filters & Search**   
 ✅ **Dark Mode Toggle 🌙**  
 ✅ **Special Offers & Discount System**  
 ✅ **Customer Reviews & Rating System ⭐**  
@@ -60,8 +53,7 @@ npm install
 # Install backend dependencies
 cd ../backend
 npm install
-MONGO_URI=your-mongodb-url
-JWT_SECRET=your-secret-key
+
 # Start frontend
 cd frontend
 npm start
