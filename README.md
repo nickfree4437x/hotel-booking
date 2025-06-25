@@ -35,6 +35,8 @@ Welcome to **Royal Vista**, a modern **hotel booking system** that allows users 
 ---
 
 ## 🖥️ Screenshots  
+![Screenshot (909)](https://github.com/user-attachments/assets/15aa8327-564f-4888-9cc9-22e34a1b2ddf)
+
 *(Add images here if available)*  
 ![Homepage](https://your-image-link.com)  
 ![Booking Page](https://your-image-link.com)  
